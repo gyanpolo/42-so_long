@@ -51,7 +51,7 @@ El programa debe gestionar adecuadamente los errores, como:
 
 ## Instalación
 
-Para compilar el proyecto, se requiere **minilibx**. En un sistema de Linux o macOS con `make` instalado, ejecuta los siguientes comandos:
+Para compilar el proyecto, se requiere **minilibx**. En un sistema de Linux con `make` instalado, ejecuta los siguientes comandos:
 
 1. Clona este repositorio.
    ```bash
