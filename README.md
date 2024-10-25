@@ -55,5 +55,5 @@ Para compilar el proyecto, se requiere **minilibx**. En un sistema de Linux o ma
 
 1. Clona este repositorio.
    ```bash
-   git clone https://github.com/tu_usuario/so_long.git
+   git clone https://github.com/gyanpolo/42-so_long.git
    cd so_long
